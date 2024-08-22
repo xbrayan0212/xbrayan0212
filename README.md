@@ -27,9 +27,9 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 - Nivel medio en Java puro
 
 ## Herramientas de Desarrollo
-- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) XAMPP
-- ![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=for-the-badge&logo=laragon&logoColor=white) Laragon
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git
+- ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+- ![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=for-the-badge&logo=laragon&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Otras Tecnologías
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
