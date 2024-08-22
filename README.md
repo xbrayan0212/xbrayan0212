@@ -10,10 +10,9 @@
 
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 
-
 ## Frontend
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
--   <img src="./icons/CSS.svg" width="48">   CSS
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) Tailwind CSS
 
@@ -35,8 +34,6 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 ## Otras Tecnologías
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white) Diseño de interfaces responsivas
-
-
 
 ## 🛠️ Proyectos Destacados
 
