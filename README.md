@@ -39,13 +39,11 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 <table>
   <tr>
-    <td>
       <strong>Frontend</strong><br>
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
-    </td>
     <td>
       <strong>Backend</strong><br>
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
