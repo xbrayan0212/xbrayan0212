@@ -38,10 +38,10 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ## 🛠️ Proyectos Destacados
 
-### [Nombre del Proyecto 1](#)
-Descripción breve del proyecto, las tecnologías utilizadas y lo que aprendiste o lograste con él.
+### [concilacionBancaria-web](#)
+Este proyecto es un sistema web diseñado para gestionar cheques, transacciones y conciliaciones financieras. Utilizando tecnologías web como HTML, CSS, JavaScript y PHP, el sistema ofrece una interfaz intuitiva y robusta para realizar diversas operaciones relacionadas con la administración de cheques y reportes financieros.
 
-### [Nombre del Proyecto 2](#)
+### [limage-webapp](#)
 Descripción breve del proyecto, las tecnologías utilizadas y lo que aprendiste o lograste con él.
 
 ### [Nombre del Proyecto 3](#)
@@ -70,16 +70,3 @@ Mis intereses y áreas en las que me gustaría profundizar incluyen:
 - Programacion en backend
 - Optimización de código y rendimiento
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
-## 📫 Contacto
-
-Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme:
-
-- **Correo electrónico:** [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn:** [linkedin.com/in/brayanrodriguez](https://www.linkedin.com)
-- **GitHub:** [github.com/tu-usuario](https://github.com)
