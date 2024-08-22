@@ -10,7 +10,6 @@
 
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 
-# Tecnologías y Herramientas
 
 ## Frontend
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
@@ -36,6 +35,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 ## Otras Tecnologías
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white) Diseño de interfaces responsivas
+
 
 
 
