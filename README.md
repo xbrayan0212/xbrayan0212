@@ -15,16 +15,15 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) Tailwind CSS
 
 ## Backend
+[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
 - ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white) Laravel
 
 ## Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
 
 ## Desarrollo en Java
