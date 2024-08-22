@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologías y Herramientas
 
-Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
+-Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
