@@ -32,9 +32,9 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Otras Tecnologías
-- ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
+- ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) 
 
-- ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white) Diseño de interfaces responsivas
+- ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white)
 
 ## 🛠️ Proyectos Destacados
 
