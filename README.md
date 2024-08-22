@@ -11,6 +11,10 @@
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 
 ## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=talwind&theme=light)](https://skillicons.dev)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
@@ -24,7 +28,8 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
 
 ## Desarrollo en Java
-- [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev) Nivel medio en Java puro
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+-  Nivel medio en Java puro
 
 ## Herramientas de Desarrollo
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) XAMPP
