@@ -5,22 +5,14 @@
 ## 🚀 Tecnologías y Herramientas
 
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
-## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
-
-## Backend
 [![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
-
-## Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-
-## Desarrollo en Java
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-- Nivel medio en Java puro
 
 ## Herramientas de Desarrollo
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
