@@ -11,29 +11,30 @@
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 
 - **Frontend:**
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) Tailwind CSS
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
+  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) Tailwind CSS
 
 - **Backend:**
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) PHP
-  - ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat-square&logo=laravel&logoColor=white) Laravel
+  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
+  - ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white) Laravel
 
 - **Bases de Datos:**
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
 
 - **Desarrollo en Java:**
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) Nivel medio en Java puro
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Nivel medio en Java puro
 
 - **Herramientas de Desarrollo:**
-  - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) XAMPP
-  - ![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=flat-square&logo=laragon&logoColor=white) Laragon
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
+  - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) XAMPP
+  - ![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=for-the-badge&logo=laragon&logoColor=white) Laragon
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git
 
 - **Otras Tecnologías:**
-  - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=flat-square&logo=web&logoColor=white) Creación y gestión de aplicaciones web
-  - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=flat-square&logo=responsive&logoColor=white) Diseño de interfaces responsivas
+  - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
+  - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white) Diseño de interfaces responsivas
+
 
 
 ## 🛠️ Proyectos Destacados
@@ -42,9 +43,6 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 Este proyecto es un sistema web diseñado para gestionar cheques, transacciones y conciliaciones financieras. Utilizando tecnologías web como HTML, CSS, JavaScript y PHP, el sistema ofrece una interfaz intuitiva y robusta para realizar diversas operaciones relacionadas con la administración de cheques y reportes financieros.
 
 ### [limage-webapp](#)
-Descripción breve del proyecto, las tecnologías utilizadas y lo que aprendiste o lograste con él.
-
-### [Nombre del Proyecto 3](#)
 Descripción breve del proyecto, las tecnologías utilizadas y lo que aprendiste o lograste con él.
 
 ## 🎯 Habilidades Blandas
