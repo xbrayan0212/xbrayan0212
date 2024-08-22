@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologías y Herramientas
 
--Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
+Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://skillicons.dev)
@@ -13,13 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-
-## Herramientas de Desarrollo
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 - ![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=for-the-badge&logo=laragon&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Otras Tecnologías
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) 
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white)
 
