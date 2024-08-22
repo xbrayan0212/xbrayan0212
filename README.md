@@ -17,14 +17,11 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=PHP&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
-- ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white) Laravel
 
 ## Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
+[![My Skills](https://skillicons.dev/icons?i=MySQLl&theme=light)](https://skillicons.dev)
 
 ## Desarrollo en Java
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
