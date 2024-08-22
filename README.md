@@ -1,6 +1,6 @@
 
 <p align="center">
-#  Brayan Rodríguez
+ Brayan Rodríguez
 </p>
 ¡Hola! Soy **Brayan Rodríguez**, estudiante de tercer año en la **Licenciatura en Desarrollo de Software** en la **Universidad Tecnológica de Panamá**. Soy un apasionado del desarrollo web y la programación, siempre buscando nuevas oportunidades para aprender y crecer en este campo
 
