@@ -9,7 +9,6 @@
 ## 🚀 Tecnologías y Herramientas
 
 Aquí están algunas de las tecnologías y herramientas con las que he trabajado:
-
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
@@ -17,15 +16,15 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 [![My Skills](https://skillicons.dev/icons?i=tailwind&theme=light)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=PHP&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
 
 ## Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=MySQLl&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 
 ## Desarrollo en Java
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
--  Nivel medio en Java puro
+- Nivel medio en Java puro
 
 ## Herramientas de Desarrollo
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) XAMPP
@@ -34,6 +33,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 
 ## Otras Tecnologías
 - ![Web Development](https://img.shields.io/badge/Web%20Development-4B4B4B?style=for-the-badge&logo=web&logoColor=white) Creación y gestión de aplicaciones web
+
 - ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-4B4B4B?style=for-the-badge&logo=responsive&logoColor=white) Diseño de interfaces responsivas
 
 ## 🛠️ Proyectos Destacados
