@@ -35,7 +35,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 Este proyecto es un sistema web diseñado para gestionar cheques, transacciones y conciliaciones financieras. Utilizando tecnologías web como HTML, CSS, JavaScript y PHP, el sistema ofrece una interfaz intuitiva y robusta para realizar diversas operaciones relacionadas con la administración de cheques y reportes financieros.
 
 ### [limage-webapp](#)
-Descripción breve del proyecto, las tecnologías utilizadas y lo que aprendiste o lograste con él.
+Este proyecto es una aplicación web diseñada para un salón de belleza, proporcionando una plataforma integral tanto para clientes como para administradores. 
 
 ## 🎯 Habilidades Blandas
 
