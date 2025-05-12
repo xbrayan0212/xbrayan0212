@@ -17,7 +17,7 @@ Aquí están algunas de las tecnologías y herramientas con las que he trabajado
 [![PHP](https://skillicons.dev/icons?i=php&theme=light)](https://skillicons.dev)
 [![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+
 
 ### Herramientas
 
