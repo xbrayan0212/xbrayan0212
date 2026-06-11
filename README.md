@@ -82,3 +82,18 @@ Desarrollo backend · Arquitectura de software · Sistemas administrativos · Op
 Español (Nativo) · Inglés (Intermedio)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png" width="96" alt="Gengar">
+</p>
+
+<p align="center">
+  <strong>Brayan Rodríguez</strong><br>
+  <code>Desarrollador de Software</code>
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Monster-Energy-0F0F0F?style=for-the-badge&logo=monster&logoColor=green" />
+  <img src="https://img.shields.io/badge/Spotify-On%20Repeat-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging-100%25%20Pain-EA4335?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
