@@ -73,7 +73,7 @@ Aplicación web para gestión de salón de belleza.
 
 ## 💡 Intereses
 
-Desarrollo backend · Arquitectura de software · Sistemas administrativos · Optimización de procesos · Laravel ecosystem
+Desarrollo backend · Arquitectura de software · Sistemas administrativos · Optimización de procesos · Laravel 
 
 ---
 
