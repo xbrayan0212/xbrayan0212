@@ -6,7 +6,7 @@ Actualmente participo en el desarrollo del sistema institucional SIVECA (Sistema
 
 ---
 
-## ⚙️ Tecnologías
+## Tecnologías
 
 [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
@@ -18,7 +18,7 @@ Actualmente participo en el desarrollo del sistema institucional SIVECA (Sistema
 
 ---
 
-## 🛠️ Herramientas
+## Herramientas
 
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)]()
 [![Laragon](https://img.shields.io/badge/Laragon-2E2E2E?style=for-the-badge&logo=laragon&logoColor=white)]()
@@ -28,12 +28,12 @@ Actualmente participo en el desarrollo del sistema institucional SIVECA (Sistema
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 ---
 
-## 🏛️ Experiencia
+## Experiencia
 
 ### Sistema SIVECA (DIVEDA)
 Sistema institucional en producción para la gestión de auditorías ambientales, licencias, auditores y procesos administrativos.
 
-🔗 Proyecto: *https://siveca.miambiente.gob.pa/*
+Proyecto: *https://siveca.miambiente.gob.pa/*
 
 - Registro y gestión de auditores naturales y jurídicos
 - Control de licencias y estados de auditoría
@@ -61,7 +61,7 @@ Aplicación web para gestión de salón de belleza.
 
 ---
 
-## 🧠 Enfoque de trabajo
+## Enfoque de trabajo
 
 - Desarrollo de sistemas institucionales reales
 - Diseño de lógica de negocio en backend
@@ -71,13 +71,13 @@ Aplicación web para gestión de salón de belleza.
 
 ---
 
-## 💡 Intereses
+## Intereses
 
 Desarrollo backend · Arquitectura de software · Sistemas administrativos · Optimización de procesos · Laravel 
 
 ---
 
-## 🌐 Idiomas
+## Idiomas
 
 Español (Nativo) · Inglés (Intermedio)
 
